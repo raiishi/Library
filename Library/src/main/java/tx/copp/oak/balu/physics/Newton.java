@@ -9,6 +9,7 @@ import java.io.FileNotFoundException;
 
 public class Newton {
 
+	
 	private HashMap<String, Element> chemMap = new HashMap<String, Element>();
 
 	public void sayHello(String str) {
